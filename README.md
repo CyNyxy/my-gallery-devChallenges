@@ -1,5 +1,24 @@
 <h1 align="center">My Gallery</h1>
 
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
+
+<div align="center">
+  <h3>
+    <a href="https://nyxy-my-gallery.netlify.app">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/solutions/JiuaQrYPN7xVxMmassdd">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
+      Challenge
+    </a>
+  </h3>
+</div>
 
 ## Table of Contents
 
@@ -13,6 +32,9 @@
 
 ## Overview
 
+![screenshot](https://i.ibb.co/hLYn0tB/devchallenge05.png)
+
+The solution for this challenge can be found: https://nyxy-my-gallery.netlify.app.
 
 
 ### Built With
@@ -30,6 +52,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Acknowledgements
 
+- [A Deep Dive Into CSS Grid minmax()](https://ishadeed.com/article/css-grid-minmax/)
+- [How to create an image gallery with CSS Grid](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
 
 
 ## Contact
