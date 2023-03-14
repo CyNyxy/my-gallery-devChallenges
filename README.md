@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/JiuaQrYPN7xVxMmassdd">
+    <a href="https://devchallenges.io/solutions/o9wY7TdHTqUlOKdmX8Je">
       Solution
     </a>
     <span> | </span>
@@ -45,7 +45,7 @@ The solution for this challenge can be found: https://nyxy-my-gallery.netlify.ap
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the following user stories:
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I) was to build an application to complete the following user stories:
 
 - [x] User story: I can see a page following the given design
 
